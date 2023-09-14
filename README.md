@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?b=1&s=612x612&w=0&k=20&c=B1O_UHuhlV34GJnQxQgxGDqmtBKMJkMf_FGssI1WEVE=)](https://rishavchanda.io)
+[![MasterHead](https://media.istockphoto.com/id/629285904/photo/programming-code-abstract-technology-background-of-software-deve.webp?b=1&s=170667a&w=0&k=20&c=uiYjLJSC_uqAgyK4-h29pxxruBY9l1tzsGTN_tX7Eus=)]
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDIvMDFkYzMxMmQtMTUwZC00ZmU4LTk1YmItNmEwOTI5NGY0YWUwLmpwZw==.jpg">
